@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "url": "/home",
+      "name": "Home",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard"
+
+    },
+    {
+      "menuHeader": "Apps & Pages"
+    },
+    {
+      "url": "/barang",
+      "name": "Tabel Barang",
+      "icon": "menu-icon tf-icons bx bx-book",
+      "slug": "dashboard"
+
+    },
+    {
+      "url": "/peminjaman",
+      "name": "Tabel BMN",
+      "icon": "menu-icon tf-icons bx bx-book",
+      "slug": "dashboard"
+
+    },
+    {
+      "url": "/peminjaman/tambah",
+      "name": "Form BMN",
+      "icon": "menu-icon tf-icons bx bx-envelope",
+      "slug": "app-email"
+    },
+    {
+      "url": "http://127.0.0.1:8000/",
+      "name": "Log-Out",
+      "icon": "menu-icon tf-icons bx bx-log-out",
+      "slug": "app-calendar"
+    }
+  ]
+}
